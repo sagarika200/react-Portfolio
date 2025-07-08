@@ -33,7 +33,7 @@ export const projectsData = [
         projectDescription:
             'Developed a browser-based Simon game using HTML, CSS, and jQuery, implementing dynamic pattern generation, user input handling, and game logic, including score tracking and difficulty scaling.',
         imageUrl: simonImg,
-        projectUrl: 'https://wordle-replica.netlify.app/',
+        projectUrl: 'https://sagarika200.github.io/Simon-Game/',
     },
    {
         projectName: 'Hangman Game',
