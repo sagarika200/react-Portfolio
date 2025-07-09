@@ -3,6 +3,7 @@ import diceImg from '../assets/Dice.jpg';
 import travelnestImg from '../assets/Travelnest.jpg';
 import simonImg from '../assets/Simon.jpg';
 import hangmanImg from '../assets/Hangman.jpg';
+import resumeImg from '../assets/Resume.jpg';
 
 export const projectsData = [
     {
@@ -48,7 +49,7 @@ export const projectsData = [
         projectName: 'Online Resume ',
         projectDescription:
            "A modern, responsive personal online resume website built from my resume. Showcases my skills, experience, projects, and contact details." ,
-        imageUrl: simonImg,
+        imageUrl: resumeImg,
         projectUrl: 'https://sagarika200.github.io/Online-Resume/',
     },
    
