@@ -40,14 +40,16 @@ export const projectsData = [
         projectDescription:
             ' Built a functional Hangman game with Python, where users guess letters to reveal a hidden word. The application tracks attempts . This project demonstrates practical Python application for interactive command line programs.',
         imageUrl: hangmanImg,
+         projectUrl: 'https://github.com/sagarika200/Hangman',
+        
         
     },
     {
-        projectName: 'Portfolio Website',
+        projectName: 'Online Resume ',
         projectDescription:
-            'As a developer, we should definitely have our own portfolio. There are endless benefits of it. so here is one of me! made it using react.js, html & css.',
-        imageUrl: 'https://user-images.githubusercontent.com/31516195/170092193-d24327ca-f035-4074-8fde-57238ef570d6.png',
-        projectUrl: 'https://anandbaraik.github.io',
-    }
+           "A modern, responsive personal online resume website built from my resume. Showcases my skills, experience, projects, and contact details." ,
+        imageUrl: simonImg,
+        projectUrl: 'https://sagarika200.github.io/Online-Resume/',
+    },
    
 ];
